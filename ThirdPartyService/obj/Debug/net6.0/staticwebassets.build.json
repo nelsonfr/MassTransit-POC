@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WossmVI2HQcSvC46b3WLx+bQ7trnww6KzzpZBOf/VwU=",
+  "Source": "ThirdPartyService",
+  "BasePath": "_content/ThirdPartyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

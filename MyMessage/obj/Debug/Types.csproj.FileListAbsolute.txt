@@ -1,0 +1,6 @@
+C:\Users\nelso\source\repos\POC\MyMessage\bin\Debug\MyMessage.dll
+C:\Users\nelso\source\repos\POC\MyMessage\bin\Debug\MyMessage.pdb
+C:\Users\nelso\source\repos\POC\MyMessage\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\POC\MyMessage\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\POC\MyMessage\obj\Debug\MyMessage.dll
+C:\Users\nelso\source\repos\POC\MyMessage\obj\Debug\MyMessage.pdb

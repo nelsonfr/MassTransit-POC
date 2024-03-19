@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cXokvuks295sceSCWIksvZ76nwCKJQf22T9cSOPjhsk=",
+  "Source": "ConsumerA",
+  "BasePath": "_content/ConsumerA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
